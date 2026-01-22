@@ -21,6 +21,8 @@
 
 #### :link: Connect with Me
 
+<a href="https://ali1180-uni.github.io/Portfolio/"><img src="./docs/plane.gif" width="60"></a>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://ali1180-uni.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiali1180/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr.__.inoxent/)
