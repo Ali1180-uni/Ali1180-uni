@@ -19,12 +19,6 @@
 - 👯 Open to collaborate on interesting projects
 - 💬 Ask me about **Web Development, Python, C++**
 
-#### :bar_chart: GitHub Stats
-
-![Ali1180-uni's Stats](https://github-readme-stats.vercel.app/api?username=Ali1180-uni&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-![Ali1180-uni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali1180-uni&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 #### :computer: Tech Stack
 
 <div align="center">
