@@ -1,25 +1,41 @@
 ![Hello](docs/hello.svg)
 
-### 𝐏𝐑𝐀𝐘 - 𝐄𝐀𝐓 - 𝐂𝐎𝐃𝐄 🎯
+## About Me
 
-#### :rocket: My Projects
+- 🎓 **BS Software Engineering** — National Textile University, Faisalabad
+- 💻 Building full-stack applications with **React, Node.js, Express, MongoDB, and REST APIs**
+- 🤖 Working with **Python, Scikit-learn, RAG systems, and LLM/API integrations**
+- 🔬 Researching **AI-assisted software engineering, developer productivity, code quality, and vulnerability analytics**
+- 🧩 Interested in backend architecture, API design, data-driven engineering, and practical AI systems
 
-* [Ali-s-Quran-Site](https://github.com/Ali1180-uni/Ali-s-Quran-Site) - Verse Finder Quran Site, A @sakoon._alquran Project ⭐
-* [ChatBot-by-Ali](https://github.com/Ali1180-uni/ChatBot-by-Ali) - Chatbot Project Using Gemini SDK with React & Node.js
-* [Mini-Chat-web-Application](https://github.com/Ali1180-uni/Mini-Chat-web-Application) - Real-time Chat App with React & Socket.io
-* [Github-to-docx](https://github.com/Ali1180-uni/Github-to-docx) - GitHub crawler that generates Word document reports
-* [SEF-PROJECT-BLOG-SITE](https://github.com/Ali1180-uni/SEF-PROJECT-BLOG-SITE) - Blog Site with CRUD Operations & Authentication
-* [DSA-Practice-By-Ali](https://github.com/Ali1180-uni/DSA-Practice-By-Ali) - Data Structures & Algorithms Practice
+## Research
 
-#### :memo: About Me
+### Predicting Developer Productivity and Code Quality in AI-Assisted Environments
 
-- 🎓 Student at **NTU, Faisalabad**
-- 🔭 Currently working on **React, Node.js, Docker**
-- 🌱 Learning **Full Stack Development & DSA**
-- 👯 Open to collaborate on interesting projects
-- 💬 Ask me about **Web Development, Python, C++**
+- Built machine-learning models to study developer productivity and code-quality patterns.
+- Applied classification, confusion matrices, F1-score analysis, statistical analysis, and feature evaluation.
+- Investigated relationships between AI-assisted development, development speed, and defect rates while accounting for factors such as sleep and cognitive load.
 
-#### :computer: Tech Stack
+[Research Repository](https://github.com/Ali1180-uni/Reports-Analysis/tree/master/Ai_Developer_Impact)
+
+### Big-Vul: Vulnerability Patterns and Machine Learning Analysis
+
+- Analyzed **4,430 CVE-linked vulnerability-fixing commits** across **348 open-source C/C++ repositories**.
+- Examined CWE distributions and project-level vulnerability concentration.
+- Used data analysis and machine-learning techniques to study patterns in software vulnerabilities.
+
+[Research Repository](https://github.com/Ali1180-uni/Reports-Analysis)
+
+## Areas of Interest
+
+- AI-Assisted Software Engineering
+- LLMs and RAG Systems
+- Developer Productivity and Code Quality
+- Vulnerability Analytics and Software Security
+- Backend Systems and API Architecture
+- Full-Stack Web Engineering
+
+## Tech Stack
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
@@ -35,6 +51,10 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 
-<br>
+## Connect
 
-![](./profile-3d-contrib/profile-green-dual.svg)
+[GitHub](https://github.com/Ali1180-uni) · [LinkedIn](https://linkedin.com/in/hiali1180) · [Email](mailto:ali.stu.1180@gmail.com)
+
+---
+
+> Building software, studying engineering practices, and turning research questions into working systems.
